@@ -1,5 +1,5 @@
 baseurl = "https://read.bebraver.uk/"
-theme = "cocoa-eh"
+theme = "cocoa-eh-bebraver"
 builddrafts = true
 canonifyurls = true
 contentdir = "content"
