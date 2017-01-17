@@ -1,9 +1,9 @@
-baseurl = "/"
+baseurl = "https://readbebraver.netlify.com"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
 contentdir = "content"
-languageCode = "en-GB"
+languageCode = "en-us"
 layoutdir = "layouts"
 publishdir = "public"
 author = "Axel Segebrecht"
