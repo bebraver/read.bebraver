@@ -1,4 +1,4 @@
-baseurl = "https://read.bebraver.uk"
+baseurl = "https://read.bebraver.uk/"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
