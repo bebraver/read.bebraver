@@ -1,4 +1,4 @@
-baseurl = "https://readbebraver.netlify.com"
+baseurl = "https://read.bebraver.uk"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
@@ -8,7 +8,7 @@ layoutdir = "layouts"
 publishdir = "public"
 author = "Axel Segebrecht"
 title = "Read be braver"
-#disqusshortname = ""
+disqusshortname = ""
 pluralizelisttitles = false
 
 [permalinks]
@@ -24,5 +24,5 @@ highlightjs = false
 lang = "en"
 github = "https://github.com/bebravernow"
 email = "hello@bebraver.uk"
-#linkedin = ""
+linkedin = ""
 twitter = "https://twitter.com/bebravernow"
