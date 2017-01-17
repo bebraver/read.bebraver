@@ -1,0 +1,28 @@
+baseurl = ""
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-GB"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Axel Segebrecht"
+title = "Read be braver"
+disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+blog = "/articles/:slug/"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "Our articles"
+logofile = "img/bebraver_tex_800_tight_primary_150px.jpg"
+faviconfile = "img/apple-touch-icon.png"
+highlightjs = false
+lang = "en"
+github = "https://github.com/bebraver"
+email = "hello@bebraver.uk"
+linkedin = ""
+twitter = "@bebravernow"
