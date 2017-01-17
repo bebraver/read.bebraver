@@ -1,4 +1,4 @@
-- - - -
+---
 author: "Axel Segebrecht"
 date: 2016-12-07
 linktitle: Giving back
@@ -9,7 +9,8 @@ next:
 prev: 
 title: Giving back
 weight: 10
-- - - -
+---
+
 # Giving back
 Part of being braver means giving back when you have more than others and not taking more than your fair share in the first place.
 
