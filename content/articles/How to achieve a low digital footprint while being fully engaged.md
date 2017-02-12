@@ -1,3 +1,10 @@
+---
+author: "Axel Segebrecht"
+date: 2017-02-12
+linktitle: How to achieve a low digital footprint
+title: How to achieve a low digital footprint
+---
+
 # How to achieve a low digital footprint while being fully engaged
 Keywords: Counter Cyber OpSec Privacy InfoSec Guide How-to
 
